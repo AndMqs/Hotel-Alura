@@ -34,8 +34,9 @@ O Hotel Alura, conhecido por suas espetaculares instalações e pacotes promocio
 A parte visual do projeto foi disponibilizada pela One, sendo necessário desenvolver somente a parte lógica do programa. 
 </br>
 
-
-https://github.com/AndMqs/trilha-java-developer/assets/93685200/225845f5-c326-4e73-a310-977e4d0e40f9
+[
+https://github.com/AndMqs/trilha-java-developer/assets/93685200/225845f5-c326-4e73-a310-977e4d0e40f9.mp4](https://github.com/AndMqs/Hotel-Alura/assets/93685200/37107edf-7d07-450a-ad54-69d0148c9064
+)
 
 
 ## Desenvolvendo o Código
